@@ -1,0 +1,16 @@
+.home_page_photo {
+    /* override bootstrap framework with important */
+    width: 200px!important;
+    height: 150px!important;
+}
+
+/* ********************* homepage pagination ************************/
+.pager > li > .active {
+    background-color: rgb(3, 8, 19);
+    color: white;
+}
+
+.pager > li > .active:hover {
+    background-color: rgb(3, 8, 19)!important;
+    color: white!important;
+}
